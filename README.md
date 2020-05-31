@@ -5,5 +5,8 @@ Test SAPCAI and https://api.covid19india.org/data.json integration.
 
 # Follow the below steps ->
 1. API creation with source code - fetchdata.py -> ref image in pythonanywhere
-2. Create Chatbot in CAI and call the API
-3. Expose the bot in front end
+2. Create Chatbot in CAI and call the API (botskill.png, skillaction.png, testbot.png)
+
+Add your own logic what you want and expose the bot in front end.
+
+# Stay healthy Stay safe
